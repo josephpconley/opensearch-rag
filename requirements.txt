@@ -1,0 +1,6 @@
+jupyter
+pandas
+langchain
+boto3
+opensearch-py
+sentence-transformers
